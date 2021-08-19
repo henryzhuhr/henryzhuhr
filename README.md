@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm HenryZhu</h1>
 
 <!--
 **HenryZhuHR/HenryZhuHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- === GitHub stats === -->
+<div align="center">
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryZhuHR&show_icons=true&hide_border=true)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryZhuHR&show_icons=true&hide_border=true)](https://github.com/HenryZhuHR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryZhuHR&layout=compact)](https://github.com/HenryZhuHR)
+</div>
 
 ## Languages and Tools...
-<!-- === Top Langs === -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- LOGO: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ###  Languages & Frame & OS & Tools
+<!-- [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://hayattamboli.vercel.app/) -->
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
 ![Csharp](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=csharp)
