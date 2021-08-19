@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- LOGO: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-###  Languages
+###  Languages & Frame & OS & Tools
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
 ![Csharp](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=csharp)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 <!-- ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) -->
 <!-- ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql) -->
-###  Frame
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![ONNX](https://img.shields.io/badge/-ONNX-000000?style=flat&logo=onnx)
 ![OpenCV](https://img.shields.io/badge/-opencv-000000?style=flat&logo=opencv)
@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 <!-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask) -->
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs) -->
 
-
-###  OS
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
 
-###  Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visualstudiocode)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
