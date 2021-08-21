@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+- 🔭 I’m currently working on **Adversarial examples**, **Deep Learning**, **Embedded System**
+- 🏫 I'm studying in [WuHan University](https://www.whu.edu.cn/)
+- 📫 You can reach me by
+[![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=296506195&site=qq&menu=yes)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail)](296506195@qq.com)
+
+
+
 <div align="center">
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
 
