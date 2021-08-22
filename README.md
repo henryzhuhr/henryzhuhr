@@ -13,15 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://henryzhuhr.github.io/
 -->
 
 
 
-- 🔭 I’m currently working on **Adversarial examples**, **Deep Learning**, **Embedded System**
-- 🏫 I'm studying in [WuHan University](https://www.whu.edu.cn/)
+- 🔨 I’m currently working on **Adversarial examples**, **Deep Learning**, **Embedded System**
+- 🎓  I'm studying in [WuHan University](https://www.whu.edu.cn/)
+- 👾 You can see my [Github Pages](https://henryzhuhr.github.io/)
 - 📫 You can reach me by
 [![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=296506195&site=qq&menu=yes)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail)](296506195@qq.com)
+[![QQMail](https://img.shields.io/badge/-QQMail-000000?style=flat&logo=Gmail)](296506195@qq.com)
+[![WHU_Mail](https://img.shields.io/badge/-WHU_Mail-000000?style=flat&logo=Gmail)](2017301200136@whu.edu.cn)
 
 
 
@@ -84,6 +88,10 @@ Here are some ideas to get you started:
 <!-- === Readme Card === -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake&show_owner=True)](https://github.com/HenryZhuHR/CMake) -->
 
+
+<a href="https://github.com/HenryZhuHR/CMake-Templates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake-Templates" />
+</a>
 
 <a href="https://github.com/HenryZhuHR/Fine-tune-Model-Assignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=Fine-tune-Model-Assignment" />
