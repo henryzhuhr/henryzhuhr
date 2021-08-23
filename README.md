@@ -33,7 +33,7 @@ https://henryzhuhr.github.io/
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryZhuHR&show_icons=true&hide_border=true)](https://github.com/HenryZhuHR)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryZhuHR&layout=compact)](https://github.com/HenryZhuHR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryZhuHR&layout=compact)](https://github.com/HenryZhuHR?tab=repositories)
 </div>
 
 ## Languages and Tools...
