@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## News
-- [Nov 2020] [Navigator Alliance of Intel OpenVINO Toolkit](https://www.credly.com/org/intel/badge/openvino) (2020.11~2021.11)
+- [Nov 2020] [Navigator Alliance of Intel OpenVINO Toolkit](https://www.credly.com/badges/08ff3149-2121-4d21-94e2-658f1af29889) (2020.11~2021.11)
 
 
 ## About my GitHub
