@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm HenryZhu</h1>
 
+
+
 <!--
 **HenryZhuHR/HenryZhuHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,21 +15,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-https://henryzhuhr.github.io/
 -->
 
-- 👾 **Welcome to visit my[Github Pages](https://henryzhuhr.github.io/)**
+## About Me
 
+- 👾 **Welcome to visit my [Github Pages](https://henryzhuhr.github.io/)**
 
-- 🔨 I’m currently working on **Adversarial examples**, **Deep Learning**, **Embedded System**
-- 🎓  I'm studying in [WuHan University](https://www.whu.edu.cn/)
+- 🔨 working on **Adversarial examples**, **Deep Learning**, **Embedded System**
+
+- 🎓  studying in [WuHan University](https://www.whu.edu.cn/)
+
 - 📫 You can reach me by
 [![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=296506195&site=qq&menu=yes)
 [![QQMail](https://img.shields.io/badge/-QQMail-000000?style=flat&logo=Gmail)](296506195@qq.com)
-[![WHU_Mail](https://img.shields.io/badge/-WHU_Mail-000000?style=flat&logo=Gmail)](2017301200136@whu.edu.cn)
+[![WHU_Mail](https://img.shields.io/badge/-WHU_Mail-000000?style=flat&logo=Gmail)](zhuheran@whu.edu.cn)
 
 
+## News
+- [Nov 2020] [Navigator Alliance of Intel OpenVINO Toolkit](https://www.credly.com/org/intel/badge/openvino) (2020.11~2021.11)
+
+
+## About my GitHub
 
 <div align="center">
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
@@ -84,21 +92,22 @@ https://henryzhuhr.github.io/
 ![Apple Pay](https://img.shields.io/badge/-Apple_Pay-000000?style=flat&logo=applepay)
 
 
-## Some Repo
+<!-- ## Some Repo -->
 <!-- === Readme Card === -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake&show_owner=True)](https://github.com/HenryZhuHR/CMake) -->
 
 
-<a href="https://github.com/HenryZhuHR/CMake-Templates">
+<!-- <a href="https://github.com/HenryZhuHR/CMake-Templates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake-Templates" />
-</a>
+</a> -->
 
-<a href="https://github.com/HenryZhuHR/Fine-tune-Model-Assignment">
+<!-- <a href="https://github.com/HenryZhuHR/Fine-tune-Model-Assignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=Fine-tune-Model-Assignment" />
-</a>
-<a href="https://github.com/HenryZhuHR/Adversarial-Attack">
+</a> -->
+
+<!-- <a href="https://github.com/HenryZhuHR/Adversarial-Attack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=Adversarial-Attack" />
-</a>
+</a> -->
 
 
 <!-- <a href="https://github.com/HenryZhuHR/CMake">
