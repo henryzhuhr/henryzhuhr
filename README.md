@@ -1,29 +1,30 @@
 <h1 align="center">Hi 👋, I'm HenryZhu</h1>
 
+<!-- 
+👨🏽‍💻
+🌱
+ -->
+
+<p align="center">
+  </br>
+  <!-- url: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons -->
+  <a href="https://www.zhihu.com/people/fang-ming-cheng-82">
+    <img align="left" alt="Hemant Joshi| Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+  </a>
 
 
-<!--
-**HenryZhuHR/HenryZhuHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </br>
+</p>
 
-Here are some ideas to get you started:
+## 😃 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About Me
-
-- 👾 **Welcome to visit my [Github Pages](https://henryzhuhr.github.io/)**
+- ⚡️ **Welcome to visit my [Blog](https://henryzhuhr.github.io/)**
 
 - 🔨 Work on **Adversarial examples**, **Deep Learning**, **Embedded System**
 
-- 🎓 Study in [WuHan University](https://www.whu.edu.cn/)
+- 🎓 A **Information and Communication Engineering** student in **[WuHan University](https://www.whu.edu.cn/)**
+
+<!-- - 📝 My Resume -->
 
 - 📫 Reach me by
 [![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=296506195&site=qq&menu=yes)
@@ -31,11 +32,11 @@ Here are some ideas to get you started:
 [![WHU_Mail](https://img.shields.io/badge/-WHU_Mail-000000?style=flat&logo=Gmail)](zhuheran@whu.edu.cn)
 
 
-## News
+## 📰 News
 - [Nov 2020] [Navigator Alliance of Intel OpenVINO Toolkit](https://www.credly.com/badges/08ff3149-2121-4d21-94e2-658f1af29889) (2020.11~2021.11)
+- [Oct 2020] Win **1<sup>st</sup> Prize** at [Intel Cup Undergraduate Electronic Design Contest - Embedded System Design Invitational Contest](https://nuedc.sjtu.edu.cn/CN/Default.aspx) 2020
 
-
-## About my GitHub
+## 🚀 About my GitHub
 
 <div align="center">
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
@@ -44,12 +45,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryZhuHR&layout=compact)](https://github.com/HenryZhuHR?tab=repositories)
 </div>
 
-## Languages and Tools...
-
-
+## 🛠 Tech Stack
 <!-- LOGO: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-###  Languages & Frame & OS & Tools
-<!-- [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://hayattamboli.vercel.app/) -->
+
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
 ![Csharp](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=csharp)
@@ -60,6 +58,7 @@ Here are some ideas to get you started:
 <!-- ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) -->
 <!-- ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql) -->
 
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![ONNX](https://img.shields.io/badge/-ONNX-000000?style=flat&logo=onnx)
 ![OpenCV](https://img.shields.io/badge/-opencv-000000?style=flat&logo=opencv)
@@ -68,9 +67,11 @@ Here are some ideas to get you started:
 <!-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask) -->
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs) -->
 
+
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
+
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visualstudiocode)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
@@ -80,16 +81,14 @@ Here are some ideas to get you started:
 ![tqdm](https://img.shields.io/badge/-tqdm-000000?style=flat&logo=tqdm)
 ![PyPI](https://img.shields.io/badge/-PyPI-000000?style=flat&logo=pypi)
 
-###  Others
+
 ![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)
 ![WeChat](https://img.shields.io/badge/-WeChat-000000?style=flat&logo=wechat)
-![TeamViewer](https://img.shields.io/badge/-TeamViewer-000000?style=flat&logo=teamviewer)
-![Adobe](https://img.shields.io/badge/-Adobe-000000?style=flat&logo=adobe)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-000000?style=flat&logo=adobelightroom)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000000?style=flat&logo=adobephotoshop)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-000000?style=flat&logo=adobepremierepro)
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple)
-![Apple Pay](https://img.shields.io/badge/-Apple_Pay-000000?style=flat&logo=applepay)
+
 
 
 <!-- ## Some Repo -->
