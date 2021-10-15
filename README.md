@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HenryZhu</h1>
+<h1 align="center">Hi 👋, I'm Henry Zhu</h1>
 
 <!-- 
 👨🏽‍💻
@@ -8,11 +8,12 @@
 <p align="center">
   </br>
   <!-- url: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons -->
-  <a href="https://www.zhihu.com/people/fang-ming-cheng-82">
-    <img align="left" alt="Hemant Joshi| Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+  <a href="https://github.com/HenryZhuHR">
+    <img align="left" alt="Henry Zhu| Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-
-
+  <a href="https://www.zhihu.com/people/henryzhuhr">
+    <img align="left" alt="Henry Zhu| Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+  </a>
   </br>
 </p>
 
