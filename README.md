@@ -18,7 +18,7 @@
 
 ## 😃 About Me
 
-- ⚡️ **Welcome to visit my [Blog](https://henryzhuhr.github.io/)**
+- ⚡️ **Welcome to visit my [tiny Universe](https://henryzhuhr.xyz/)**
 
 - 🔨 Work on **Adversarial examples**, **Deep Learning**, **Embedded System**
 
