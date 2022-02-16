@@ -23,7 +23,7 @@
 
 - 🔨 Work on **Adversarial examples**, **Deep Learning**, **Embedded System**
 
-- 🎓 A **Information and Communication Engineering** student in **[WuHan University](https://www.whu.edu.cn/)**
+- 🎓 **Information and Communication Engineering** student, **[WuHan University](https://www.whu.edu.cn/)**
 
 <!-- - 📝 My Resume -->
 
