@@ -18,7 +18,7 @@
 </p>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenryZhuHR.HenryZhuHR)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenryZhuHR.HenryZhuHR)](https://github.com/HenryZhuHR)
 
 
 ## 😃 About Me
