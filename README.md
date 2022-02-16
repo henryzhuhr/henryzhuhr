@@ -17,6 +17,10 @@
   </br>
 </p>
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenryZhuHR.HenryZhuHR)
+
+
 ## 😃 About Me
 
 <!-- - ⚡️ **Welcome to visit my [tiny Universe](https://henryzhuhr.github.io/)** -->
