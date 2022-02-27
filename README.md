@@ -56,7 +56,7 @@
 <!-- LOGO: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) -->
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
+[![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)](https://henryzhuhr.github.io/Hello-Cpp)
 ![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=CMake)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
