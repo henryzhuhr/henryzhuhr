@@ -1,31 +1,32 @@
 <h1 align="center">Hi 👋, I'm Henry Zhu</h1>
 
-<p align="center">
-  Here, My tiny universe(xyz)
-  <a href="http://henryzhuhr.github.io/">
-     xyz
-  </a>
-</p>
-
 <!-- 
 👨🏽‍💻
 🌱
  -->
 
-<p align="center">
-  </br>
+<div align="center">
+  <a href="http://henryzhuhr.github.io/">
+    <img align="center" alt="Henry Zhu| Zhihu" width="66px" src="https://s3.bmp.ovh/imgs/2022/02/15a829cb58a1ab4e.png" />
+  </a>
+
+  Here, 👆 My tiny universe 
+</div>
+
+<div align="center">
   <!-- url: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons -->
   <a href="https://github.com/HenryZhuHR">
-    <img align="left" alt="Henry Zhu| Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="center" alt="Henry Zhu| Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://www.zhihu.com/people/henryzhuhr">
-    <img align="left" alt="Henry Zhu| Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+    <img align="center" alt="Henry Zhu| Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
   </a>
-  </br>
-</p>
+</div>
 
-
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenryZhuHR.HenryZhuHR)](https://github.com/HenryZhuHR)
+<!-- <div align="center">
+  <a href="https://github.com/HenryZhuHR">
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=HenryZhuHR.HenryZhuHR" />
+</div> -->
 
 
 ## 😃 About Me
@@ -63,7 +64,7 @@
 
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) -->
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
-<!-- ![Csharp](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=csharp) -->
+![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=CMake)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) -->
@@ -81,17 +82,9 @@
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs) -->
 
 
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
-
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visualstudiocode)
-<!-- ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio) -->
-<!-- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) -->
-![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=CMake)
 ![tmux](https://img.shields.io/badge/-tmux-000000?style=flat&logo=tmux)
-![tqdm](https://img.shields.io/badge/-tqdm-000000?style=flat&logo=tqdm)
 ![PyPI](https://img.shields.io/badge/-PyPI-000000?style=flat&logo=pypi)
 
 
