@@ -46,9 +46,9 @@
 
 
 ## 📰 News
-<!-- - [Oct 2021] attend the first annual [Intel® AI Global Impact Festival](https://aiglobalimpactfestival.org) [October 15-30, 2021] -->
-<!-- - [Nov 2020] [Navigator Alliance of Intel OpenVINO Toolkit](https://www.credly.com/badges/08ff3149-2121-4d21-94e2-658f1af29889) (2020.11~2021.11) -->
-<!-- - [Oct 2020] Win **1<sup>st</sup> Prize** at [Intel Cup Undergraduate Electronic Design Contest - Embedded System Design Invitational Contest](https://nuedc.sjtu.edu.cn/CN/show.aspx?info_lb=1&info_id=269&flag=1) 2020 -->
+- [Oct 2021] attend the first annual [Intel® AI Global Impact Festival](https://aiglobalimpactfestival.org) [October 15-30, 2021]
+- [Nov 2020] [Navigator Alliance of Intel OpenVINO Toolkit](https://www.credly.com/badges/08ff3149-2121-4d21-94e2-658f1af29889) (2020.11~2021.11)
+- [Oct 2020] Win **1<sup>st</sup> Prize** at [Intel Cup Undergraduate Electronic Design Contest - Embedded System Design Invitational Contest](https://nuedc.sjtu.edu.cn/CN/show.aspx?info_lb=1&info_id=269&flag=1) 2020
 
 
 
