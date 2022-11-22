@@ -40,9 +40,9 @@
 <!-- - 📝 My Resume -->
 
 - 📫 Reach me by
-[![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=296506195&site=qq&menu=yes)
-[![QQMail](https://img.shields.io/badge/-QQMail-000000?style=flat&logo=Gmail)](296506195@qq.com)
-[![WHU_Mail](https://img.shields.io/badge/-WHU_Mail-000000?style=flat&logo=Gmail)](zhuheran@whu.edu.cn)
+[![GMail](https://img.shields.io/badge/-GMail-000000?style=flat&logo=Gmail)](henryzhuhr@gmail.com)
+[![QQMail](https://img.shields.io/badge/-QQMail-000000?style=flat&logo=Gmail)](henry.zhuhr@qq.com)
+
 
 
 ## 📰 News
