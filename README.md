@@ -38,7 +38,7 @@
 - 🎓 **Information and Communication Engineering** student, **[WuHan University](https://www.whu.edu.cn/)**
 
 
-- 📷 Photography, [![视觉中国(签约)](https://img.shields.io/badge/-视觉中国(签约)-000000?style=flat&logo=500px)]([Title](https://500px.com.cn/henryzhu))
+- 📷 Photography, ![视觉中国](https://img.shields.io/badge/-视觉中国-000000?style=flat&logo=500px)([签约摄影师](https://500px.com.cn/henryzhu))
 
 <!-- - 📝 My Resume -->
 
