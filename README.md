@@ -37,7 +37,7 @@
 
 - 🚀 Daily Development in **Deep Learning and Models Deployment**, **Embedded System**, **Mobile Robot System**
 
-- 📷 Addicted to Photography, ![Visual China](https://img.shields.io/badge/-视觉中国-000000?style=flat&logo=500px)([Contracted photographer](https://500px.com.cn/henryzhu)), Aerial Photograph in [skypixel](https://www.skypixel.com)
+- 📷 Addicted to Photography, a Contracted Photographer of [Visual China(500px)](https://500px.com.cn/henryzhu), more Aerial Photograph in [DJI SkyPixel](https://www.skypixel.com)
 
 <!-- - 📝 My Resume -->
 
