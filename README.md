@@ -33,12 +33,11 @@
 
 - ⚡️ **Welcome to visit my [tiny Universe(blog)](https://henryzhuhr.github.io/)**
 
-- 🔨 Work on **Adversarial examples**, **Deep Learning**, **Embedded System**
+- 🎓 **Information and Communication Engineering** student, **[WuHan University](https://www.whu.edu.cn/)**, Work on **Adversarial examples**, **Deep Learning**, **Embedded System**
 
-- 🎓 **Information and Communication Engineering** student, **[WuHan University](https://www.whu.edu.cn/)**
+- 🚀 Daily Development in **Deep Learning and Models Deployment**, **Embedded System**, **Mobile Robot System**
 
-
-- 📷 Photography, ![视觉中国](https://img.shields.io/badge/-视觉中国-000000?style=flat&logo=500px)([签约摄影师](https://500px.com.cn/henryzhu))
+- 📷 Addicted to Photography, ![Visual China](https://img.shields.io/badge/-视觉中国-000000?style=flat&logo=500px)([Contracted photographer](https://500px.com.cn/henryzhu)), Aerial Photograph in [skypixel](https://www.skypixel.com)
 
 <!-- - 📝 My Resume -->
 
