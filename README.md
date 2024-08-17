@@ -31,11 +31,11 @@
 
 ## 😃 About Me
 
-- ⚡️ **Welcome to visit my [tiny Universe(blog)](https://henryzhuhr.github.io/)**
+- ⚡️ **Welcome to visit my [tiny Universe](https://henryzhuhr.github.io/)** (My own website)
 
-- 🎓 **Information and Communication Engineering** student, **[WuHan University](https://www.whu.edu.cn/)**, Work on **Adversarial examples**, **Deep Learning**, **Embedded System**
+- 🎓 Graduated from **[WuHan University](https://www.whu.edu.cn/)**, majoring in **Information and Communication Engineering**, interesting in **Deep Learning**, **Embedded System**, **Mobile Robot System**
 
-- 🚀 Daily Development in **Deep Learning and Models Deployment**, **Embedded System**, **Mobile Robot System**
+- 🚀 Daily Development in **Go**
 
 - 📷 Addicted to Photography, a Contracted Photographer of [Visual China(500px)](https://500px.com.cn/henryzhu), more Aerial Photograph in [DJI SkyPixel](https://www.skypixel.com)
 
@@ -56,26 +56,39 @@
 
 ## 🛠 Tech Stack
 <!-- LOGO: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+<!-- Icon form https://simpleicons.org -->
 
-<!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) -->
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
 ![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=CMake)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
 ![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=shell)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-opencv-000000?style=flat&logo=opencv)
 ![ONNX](https://img.shields.io/badge/-ONNX-000000?style=flat&logo=onnx)
-![TensorRT](https://img.shields.io/badge/-TensorRT-000000?style=flat&logo=tensorrt)
+![CUDA](https://img.shields.io/badge/-CUDA-000000?style=flat&logo=nvidia)
+![TensorRT](https://img.shields.io/badge/-TensorRT-000000?style=flat&logo=nvidia)
+![OpenVINO](https://img.shields.io/badge/-OpenVINO-000000?style=flat&logo=intel)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![ROS2](https://img.shields.io/badge/-ROS2-000000?style=flat&logo=ros)
 ![STM32](https://img.shields.io/badge/-STM32-000000?style=flat&logo=stmicroelectronics)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Vue3](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
 ![Latex](https://img.shields.io/badge/-Latex-000000?style=flat&logo=latex)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
+![HomeAssistant](https://img.shields.io/badge/-HomeAssistant-000000?style=flat&logo=homeassistant)
+
 ![LR](https://img.shields.io/badge/-LR-000000?style=flat&logo=adobelightroom)
 ![PS](https://img.shields.io/badge/-PS-000000?style=flat&logo=adobephotoshop)
 ![PR](https://img.shields.io/badge/-PR-000000?style=flat&logo=adobepremierepro)
