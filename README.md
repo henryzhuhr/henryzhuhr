@@ -15,7 +15,7 @@
 
 <div align="center">
   <!-- url: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons -->
-  <a href="https://github.com/HenryZhuHR">
+  <a href="https://github.com/henryzhuhr">
     <img align="center" alt="Henry Zhu| Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://www.zhihu.com/people/henryzhuhr">
@@ -24,8 +24,8 @@
 </div>
 
 <!-- <div align="center">
-  <a href="https://github.com/HenryZhuHR">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=HenryZhuHR.HenryZhuHR" />
+  <a href="https://github.com/henryzhuhr">
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=henryzhuhr.henryzhuhr" />
 </div> -->
 
 
@@ -102,24 +102,24 @@
 
 <!-- ## Some Repo -->
 <!-- === Readme Card === -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake&show_owner=True)](https://github.com/HenryZhuHR/CMake) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henryzhuhr&repo=CMake&show_owner=True)](https://github.com/henryzhuhr/CMake) -->
 
 
-<!-- <a href="https://github.com/HenryZhuHR/CMake-Templates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake-Templates" />
+<!-- <a href="https://github.com/henryzhuhr/CMake-Templates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryzhuhr&repo=CMake-Templates" />
 </a> -->
 
-<!-- <a href="https://github.com/HenryZhuHR/Fine-tune-Model-Assignment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=Fine-tune-Model-Assignment" />
+<!-- <a href="https://github.com/henryzhuhr/Fine-tune-Model-Assignment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryzhuhr&repo=Fine-tune-Model-Assignment" />
 </a> -->
 
-<!-- <a href="https://github.com/HenryZhuHR/Adversarial-Attack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=Adversarial-Attack" />
+<!-- <a href="https://github.com/henryzhuhr/Adversarial-Attack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryzhuhr&repo=Adversarial-Attack" />
 </a> -->
 
 
-<!-- <a href="https://github.com/HenryZhuHR/CMake">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryZhuHR&repo=CMake&show_owner=True" />
+<!-- <a href="https://github.com/henryzhuhr/CMake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryzhuhr&repo=CMake&show_owner=True" />
 </a> -->
 
 
@@ -135,6 +135,6 @@
 <div align="center">
 <!-- Usage: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryZhuHR&show_icons=true&hide_border=true)](https://github.com/HenryZhuHR)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryZhuHR&layout=compact)](https://github.com/HenryZhuHR?tab=repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=henryzhuhr&show_icons=true&hide_border=true)](https://github.com/henryzhuhr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzhuhr&layout=compact)](https://github.com/henryzhuhr?tab=repositories)
 </div>
